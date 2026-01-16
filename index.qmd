@@ -1,26 +1,35 @@
 ---
-title: "My E-Portfolio"
-image: images/MGEM_logo.png
+title: "Pritty Arattu"
+image: images/Nature.png
 about:
   template: trestles
   image-width: 20em
-  links: 
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/ramon-melser-666932129/
-    - icon: twitter
-      text: Twitter/X
-      href: https://x.com/MelserRamon
+  links:
     - icon: github
       text: GitHub
-      href: https://github.com/ramonmelser
+      href: https://github.com/PrittyArattu/E-Portfolio
     - icon: envelope-at
       text: Email
-      href: mailto:melser@student.ubc.ca
+      href: mailto:pritty.arattu@gmail.com
 ---
+Pritty Arattu
 
-Hey there people,
-
-This is your E-Portfolio landing page. Be sure to upload a professional headshot of yourself, and provide the appropriate links to your professional social media (linkedin, X/Twitter, etc). This is also a good place to provide a short summary of your education, career and interests. If you are associated with a lab or working with a research supervisor, it may be appropriate to provide some information on that here, along with links to relevant websites.
-
-Write something about myself, very exciting.
+I am originally from Vadodara India,a charming little town named for all its banyan trees.
+Now, here’s a fun fact about me: I’ve always loved maps. But as a kid, I had no 
+idea people actually made maps for a living. Like, what do you even call someone 
+who does that? A map-maker? A cartographer? (Turns out, yes!) 
+Growing up, I had a giant 5-foot map of the world plastered on my bedroom wall 
+and a globe on my desk—the kind with raised bumps you could feel as you spun it 
+around. I’d spend ages tracing countries and dreaming about faraway places. Little 
+did I know this childhood curiosity would shape my career. I studied Geology 
+back in India, then moved to Canada at 21 to get a postgrad diploma in Geographic 
+Information Systems (GIS) from Sir Sandford Fleming College. Since then, I’ve 
+worked as a GIS Technician at Parks Canada, a GIS Analyst with GHD, and currently,
+I’m with the City of Hamilton in Ontario. Pretty early on, I realized I wanted 
+to mix my love for forestry with my GIS skills—which is what brought me here to
+UBC’s MGEM program. I’m super excited to dive into forest health monitoring and
+figure out how we can catch early signs of pests, diseases, and climate change
+stressing out our trees. When I’m not geeking out over maps and trees, 
+I enjoy reading, biking and working out (outside of everything important we do 
+on a day to day basis). Can’t wait to get to know you all and share this 
+adventure together!

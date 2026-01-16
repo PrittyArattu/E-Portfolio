@@ -1,9 +1,9 @@
 project:
   type: website
-  output-dir: C:/Users/melser/Documents/GitHub/E-Portfolio
+  output-dir: C:\Users\pritty01.stu\OneDrive - UBC\Documents\GitHub\E-Portfolio
 
 website:
-  title: "Your E-Portfolio"
+  title: "Pritty Arattu's E-Portfolio"
   navbar:
     left:
       - href: index.qmd
@@ -12,12 +12,13 @@ website:
         text: Resume
       - href: publications.qmd
         text: Publications
+        
       - href: content.qmd
         text: Content & Deliverables
 
 format:
   html:
-    theme: flatly
+    theme: minty
     css: styles.css
     toc: true
 
