@@ -3,7 +3,7 @@ title: "Content & Deliverables"
 format: html
 editor: visual
 about:
-  template: flatly
+  template: sketchy
 ---
 
 # Project 1 - Capstone Deliverables
