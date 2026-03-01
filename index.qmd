@@ -2,7 +2,7 @@
 title: "Pritty Arattu"
 image: images/FullSizeRender.png
 about:
-  template: trestles
+  template: flatly
   image-width: 20em
   links:
     - icon: github
@@ -12,7 +12,7 @@ about:
       text: Email
       href: mailto:pritty.arattu@gmail.com
 ---
-Pritty Arattu
+About me
 
 I am originally from Vadodara India,a charming little town named for all its banyan trees.
 Now, here’s a fun fact about me: I’ve always loved maps. But as a kid, I had no 
