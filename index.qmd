@@ -1,6 +1,6 @@
 ---
 title: "Pritty Arattu"
-image: images/Nature.png
+image: images/FullSizeRender.jpeg
 about:
   template: trestles
   image-width: 20em
