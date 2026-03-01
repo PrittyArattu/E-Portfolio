@@ -2,7 +2,7 @@
 title: "Pritty Arattu"
 image: images/FullSizeRender.png
 about:
-  template: flatly
+  template: litera
   image-width: 20em
   links:
     - icon: github
