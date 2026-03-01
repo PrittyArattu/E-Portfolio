@@ -1,7 +1,8 @@
 ---
 title: "Resume"
+page-layout: full
 about:
-  template: sketchy
+  template: trestles
 ---
 
 # Education

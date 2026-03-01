@@ -1,8 +1,9 @@
 ---
 title: "Pritty Arattu"
 image: images/FullSizeRender.png
+page-layout: full
 about:
-  template: sketchy
+  template: trestles
   image-width: 20em
   links:
     - icon: github
