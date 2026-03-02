@@ -1,13 +1,49 @@
 ---
-title: "Resume"
 page-layout: full
-about:
-  template: trestles
 ---
+## Experience
 
-# Education
+#### City of Hamilton  
+*GIS Analyst*  
+**February 2024 – August 2025**  
+Hamilton, Canada
 
--   List your education here.
+- Create, maintain, update, manipulate, and analyze data in the City’s corporate GIS database.
+- Complete spatial analysis and GIS application development projects with functional business units to support decision-making.
+- Assisted Enterprise specialists with publishing services to ArcGIS Online and maintaining those services.
+
+###### Forestry Projects
+- Developed and managed in-house projects for the forestry department, supporting field technicians with essential tools and resources.
+- Led a project on Spongy Moth Egg Masses, creating Field Smart forms and dashboards to improve data collection and analysis.
+- Conducted woodland assessments focused on tree species identification and health evaluation.
+
+---
+#### GHD  
+*GIS Analyst*  
+**April 2022 – February 2024**  
+Waterloo, Canada
+
+- Gathered and compiled geographic data from a variety of sources, including satellite imagery, aerial photographs, field observations, and existing maps, ensuring data accuracy and reliability.
+- Created and customized maps and visualizations using ArcMap, ArcPro, and Adobe Illustrator to effectively communicate spatial information.
+
+###### Client Projects
+- Contributed to several pivotal projects that supported company growth, including remediation projects for U.S. mining clients and initiatives associated with a 5% increase in client acquisition.
+- Developed specialized expertise in emergency response (ER) initiatives related to oil spills, derailments, and wildfires.
+
+###### In-house Projects
+- Developed an automated FME (Feature Manipulation Engine) workspace to systematically divide Excel-based field data according to updated data requirements, improving efficiency across field data collection workflows.
+- Designed and deployed a diverse set of surveys using Survey123 Connect, configuring field maps with essential layers to optimize usability and streamline data collection for field personnel.
+
+---
+### UTS Tree Care (Parks Canada)  
+*GIS Technician*  
+**October 2021 – April 2022**  
+Uxbridge, Canada
+
+- Contributed to a hazardous tree risk assessment and prioritization project for Parks Canada.
+- Used Trimble Catalyst and Survey123 to locate and document hazardous trees using high-accuracy GPS.
+- Conducted field data collection using Trimble Catalyst and populated tree attribute information in ArcGIS.
+- Prioritized trees based on condition and likelihood of future hazard occurrence.
 
 # Publications
 

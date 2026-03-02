@@ -3,7 +3,7 @@ title: "Pritty Arattu"
 image: images/FullSizeRender.png
 page-layout: full
 about:
-  template: trestles
+  template: jolla
   image-width: 20em
   links:
     - icon: github

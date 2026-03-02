@@ -3,8 +3,6 @@ page-layout: full
 toc: false
 format: html
 editor: visual
-about:
-  template: trestles
 ---
 
 # Project 1 - Capstone Deliverables
