@@ -1,36 +1,60 @@
 ---
-title: "Pritty Arattu"
-image: images/FullSizeRender.png
+title: ""
 page-layout: full
-about:
-  template: jolla
-  image-width: 20em
-  links:
-    - icon: github
-      text: GitHub
-      href: https://github.com/PrittyArattu/E-Portfolio
-    - icon: envelope-at
-      text: Email
-      href: mailto:pritty.arattu@gmail.com
+toc: false
+format: html
+navbar: false
 ---
-About me
 
-I am originally from Vadodara India,a charming little town named for all its banyan trees.
-Now, here’s a fun fact about me: I’ve always loved maps. But as a kid, I had no 
-idea people actually made maps for a living. Like, what do you even call someone 
-who does that? A map-maker? A cartographer? (Turns out, yes!) 
-Growing up, I had a giant 5-foot map of the world plastered on my bedroom wall 
-and a globe on my desk—the kind with raised bumps you could feel as you spun it 
-around. I’d spend ages tracing countries and dreaming about faraway places. Little 
-did I know this childhood curiosity would shape my career. I studied Geology 
-back in India, then moved to Canada at 21 to get a postgrad diploma in Geographic 
-Information Systems (GIS) from Sir Sandford Fleming College. Since then, I’ve 
-worked as a GIS Technician at Parks Canada, a GIS Analyst with GHD, and currently,
-I’m with the City of Hamilton in Ontario. Pretty early on, I realized I wanted 
-to mix my love for forestry with my GIS skills—which is what brought me here to
-UBC’s MGEM program. I’m super excited to dive into forest health monitoring and
-figure out how we can catch early signs of pests, diseases, and climate change
-stressing out our trees. When I’m not geeking out over maps and trees, 
-I enjoy reading, biking and working out (outside of everything important we do 
-on a day to day basis). Can’t wait to get to know you all and share this 
-adventure together!
+<div class="top-header">
+  <a class="home-link" href="index.html">Home</a>
+  <div class="menu-toggle" onclick="toggleMenu()">☰</div>
+</div>
+
+<div id="side-menu" class="side-menu">
+  <a href="about.html">About</a>
+  <a href="resume.html">Resume</a>
+  <a href="publications.html">Publications</a>
+  <a href="content.html">Content & Deliverables</a>
+</div>
+
+<div class="hero">
+
+<h1 class="hero-name">Pritty Arattu</h1>
+
+<div class="name-lines">
+<div></div>
+<div></div>
+</div>
+
+<div class="hero-tagline">
+
+<div class="tagline-row">
+<div class="tagline-line"></div>
+<div class="tagline-text">dog lover</div>
+</div>
+
+<div class="tagline-row">
+<div class="tagline-line"></div>
+<div class="tagline-text">liDAR enthusiast</div>
+</div>
+
+<div class="tagline-row">
+<div class="tagline-line"></div>
+<div class="tagline-text">map nerd (professionally)</div>
+</div>
+
+</div>
+
+<div class="social-links">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">in</a>
+  <a href="https://github.com/PrittyArattu" target="_blank">gh</a>
+</div>
+
+</div>
+
+<script>
+function toggleMenu() {
+  document.getElementById("side-menu").classList.toggle("open");
+}
+</script>

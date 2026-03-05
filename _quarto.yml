@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: about.qmd
+        text: About
       - href: resume.qmd
         text: Resume
       - href: publications.qmd
@@ -17,7 +19,7 @@ website:
 
 format:
   html:
-    theme: minty
+    theme: flatly
     css: styles.css
     toc: true
 
