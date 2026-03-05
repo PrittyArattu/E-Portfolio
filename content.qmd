@@ -5,7 +5,7 @@ format: html
 editor: visual
 ---
 
-# Project 1 - Capstone Deliverables
+# Master's Thesis Project
 
 This is a sample page where you can archive project deliverables. Every header you use will correspond to a tab in the legend - shown on the right-hand side of your screen ("On this page").
 

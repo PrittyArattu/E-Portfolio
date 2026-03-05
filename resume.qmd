@@ -1,6 +1,7 @@
 ---
 page-layout: full
 ---
+
 ## Experience
 
 #### City of Hamilton  
@@ -36,7 +37,8 @@ Waterloo, Canada
 - Designed and deployed a diverse set of surveys using Survey123 Connect, configuring field maps with essential layers to optimize usability and streamline data collection for field personnel.
 
 ---
-### UTS Tree Care (Parks Canada)  
+
+#### UTS Tree Care (Parks Canada)  
 *GIS Technician*  
 **October 2021 – April 2022**  
 Uxbridge, Canada
@@ -46,34 +48,82 @@ Uxbridge, Canada
 - Conducted field data collection using Trimble Catalyst and populated tree attribute information in ArcGIS.
 - Prioritized trees based on condition and likelihood of future hazard occurrence.
 
-# Publications
+---
 
-*Peer-reviewed publications:*
+## Master’s Thesis Project
 
--   List any peer-reviewed publications here.
+#### Natural Resources Canada  
+*Master’s Thesis Research*  
+**August 2025 – May 2026**  
+Vancouver, BC
 
-*Reports:*
+- Conducted Individual Tree Segmentation (ITS) on airborne LiDAR point cloud data from the Petawawa Research Forest using multi-temporal ALS datasets (three time periods).
+- Implemented and compared multiple ITS algorithms (Watershed, Dalponte2016, and Li2012) to evaluate which algorithm performs best across time series.
+- Documented code and workflows to support reproducibility and future project development.
 
--   List any non-peer reviewed materials you'd like to share here.
+---
 
-# Conferences & Talks
+## Education
 
-*Invited Talks*
+##### University of British Columbia  
+*Master of Geomatics in Environmental Management*  
+**July 2025 – May 2026**  
+Vancouver, BC
 
--   If you've been invited to speak in a professional setting, list that here.
+##### Fleming College  
+*Geographic Information Systems (Certificate)*  
+**September 2017 – May 2018**  
+Lindsay, ON
 
-*Conference Presentations*
+##### Conestoga College  
+*Project Management*  
+**September 2018 – May 2019**  
+Waterloo, ON
 
--   If the presentation was at a conference, list them here.
+##### Maharaja Sayajirao University  
+*Bachelor of Science in Geology*  
+**June 2014 – June 2017**  
+India
 
-# Awards & Honors
+---
 
--   List any scholarships, bursaries, etc.
+## Skills
 
-# Teaching Assistantships
+**Web Technologies**
+- HTML5 / CSS3  
+- JavaScript  
+- JSON / GeoJSON  
 
--   List any TA positions you may have held.
+**Programming**
+- Python  
+- R / RStudio  
 
-# Institutional Service
+**Databases**
+- SQL  
+- PostGIS  
+- Microsoft Access  
 
--   Volunteering etc.
+**Web Mapping**
+- Google Maps  
+- Leaflet  
+- Mapbox  
+
+**GIS & Spatial Tools**
+- ArcGIS Pro  
+- ArcMap  
+- ArcGIS Suite  
+- ArcSDE  
+- QGIS  
+- FME  
+- Adobe Illustrator  
+
+**Development Methodologies**
+- Agile  
+- Waterfall  
+
+**Microsoft Office**
+- Excel  
+- Access  
+- Outlook  
+- PowerPoint
+

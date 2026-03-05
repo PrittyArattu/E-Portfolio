@@ -14,8 +14,7 @@ navbar: false
 <div id="side-menu" class="side-menu">
   <a href="about.html">About</a>
   <a href="resume.html">Resume</a>
-  <a href="publications.html">Publications</a>
-  <a href="content.html">Content & Deliverables</a>
+  <a href="content.html">Projects</a>
 </div>
 
 <div class="hero">
@@ -47,7 +46,7 @@ navbar: false
 </div>
 
 <div class="social-links">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">in</a>
+  <a href="https://www.linkedin.com/in/pritty-arattu-51b334149/" target="_blank">in</a>
   <a href="https://github.com/PrittyArattu" target="_blank">gh</a>
 </div>
 
