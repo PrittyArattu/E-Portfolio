@@ -52,7 +52,7 @@ Uxbridge, Canada
 
 ---
 
-## Master’s Thesis Project
+### Master’s Thesis Project
 
 #### Natural Resources Canada  
 *Master’s Thesis Research*  
@@ -65,7 +65,7 @@ Vancouver, BC
 
 ---
 
-## Education
+### Education
 
 ##### University of British Columbia  
 *Master of Geomatics in Environmental Management*  
@@ -89,7 +89,7 @@ India
 
 ---
 
-## Skills
+### Skills
 
 **Web Technologies**
 - HTML5 / CSS3  
