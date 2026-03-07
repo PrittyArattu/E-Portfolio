@@ -1,0 +1,38 @@
+---
+title: ""
+page-layout: full
+format: html
+---
+
+
+<div class="contact-container">
+
+<div class="contact-image">
+<img src="images/IMG_3833.png">
+</div>
+
+<div class="contact-text">
+
+# Contact
+
+I'd love to connect! Whether it's about geomatics, remote sensing, environmental work, or potential collaborations, feel free to reach out.
+
+### Email  
+<a href="mailto:pritty.arattu@gmail.com">pritty.arattu@gmail.com</a>
+
+### LinkedIn  
+<a href="https://www.linkedin.com/in/pritty-arattu-51b334149/" target="_blank">
+linkedin.com/in/pritty-arattu-51b334149
+</a>
+
+### GitHub  
+<a href="https://github.com/PrittyArattu" target="_blank">
+github.com/PrittyArattu
+</a>
+
+### Location  
+Vancouver, Canada
+
+</div>
+
+</div>

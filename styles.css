@@ -415,3 +415,24 @@ box-shadow:0 6px 18px rgba(0,0,0,0.15);
   color:#14532d;
   margin-bottom:20px;
 }
+
+.contact-image img,
+.contact-photo {
+  width: 220px;
+  height: auto;
+  max-width: 220px;
+}
+
+.contact-text a {
+  color: #1f5a3a;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.contact-text a:hover {
+  text-decoration: underline;
+}
+
+.contact-text h1 {
+  color: #1f5a3a;
+}

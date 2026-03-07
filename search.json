@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "\nPritty Arattu\n",
     "section": "",
-    "text": "Home\n\n☰\n\n\n\nAbout Resume Projects Map Gallery\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ndog lover\n\n\n\n\n\n\n\nliDAR enthusiast\n\n\n\n\n\n\n\nmap nerd (professionally)\n\n\n\n\nin gh"
+    "text": "Home\n\n☰\n\n\n\nAbout Resume Projects Map Gallery Contact\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ndog lover\n\n\n\n\n\n\n\nliDAR enthusiast\n\n\n\n\n\n\n\nmap nerd (professionally)\n\n\n\n\nin gh @"
   },
   {
     "objectID": "resume.html",
@@ -397,5 +397,12 @@
     "title": "Projects",
     "section": "",
     "text": "Here you can find a collection of my work throughout the MGEM program. Click on a card to explore the projects and interactive results!\n\n\n\n\n\nThis project quantified burn severity from the 2017 Prouton Lakes wildfire using Landsat imagery and vegetation indices.\n\n\n\n\n\n\nLiDAR point cloud processing and tree segmentation techniques were applied to identify individual trees and evaluate algorithm performance.\n\n\n\n\n\n\nSpatial modeling was used to identify potential habitat areas for species at risk using environmental predictors and GIS analysis.\n\n\n\n\n\n\nMODIS NDVI time series data were analyzed using the BFAST algorithm to detect vegetation disturbances and recovery patterns."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nI’d love to connect! Whether it’s about geomatics, remote sensing, environmental work, or potential collaborations, feel free to reach out.\n\nEmail\npritty.arattu@gmail.com\n\n\nLinkedIn\n linkedin.com/in/pritty-arattu-51b334149 \n\n\nGitHub\n github.com/PrittyArattu \n\n\nLocation\nVancouver, Canada"
   }
 ]

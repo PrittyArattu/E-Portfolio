@@ -16,6 +16,7 @@ navbar: false
   <a href="resume.html">Resume</a>
   <a href="content.html">Projects</a>
   <a href="map_gallery.html">Map Gallery</a>
+  <a href="contact.html">Contact</a>
 </div>
 
 <div class="hero">
@@ -49,6 +50,7 @@ navbar: false
 <div class="social-links">
   <a href="https://www.linkedin.com/in/pritty-arattu-51b334149/" target="_blank">in</a>
   <a href="https://github.com/PrittyArattu" target="_blank">gh</a>
+  <a href="mailto:pritty.arattu@gmail.com">@</a>
 </div>
 
 </div>

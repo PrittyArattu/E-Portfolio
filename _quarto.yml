@@ -16,6 +16,8 @@ website:
         text: Projects
       - href: map_gallery.qmd
         text: Map Gallery
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:
