@@ -14,13 +14,12 @@ format: html
 
 # Get to Know Me
 
-I’m a geomatics professional with a background in geology and a deep-rooted curiosity about maps and landscapes.
+My connection to the environment began early. As a child, I was fascinated by rocks and the landscapes around me, which gradually grew into a broader curiosity about the natural world.
 
-After completing a postgraduate diploma in Geographic Information Systems (GIS) at Sir Sandford Fleming College, I’ve worked across public and private sectors including Parks Canada, GHD, and the City of Hamilton, supporting environmental analysis and spatial decision-making.
+That curiosity evolved into a commitment to environmental work and ultimately shaped the path I chose, from my undergraduate studies to the sectors I’ve worked in, and now through my Master of Geomatics for Environmental Management (MGEM) at the University of British Columbia. Here my focus was on individual tree segmentation using airborne LiDAR 
+data with Natural Resources Canada. 
 
-Currently, I’m pursuing the **Master of Geomatics for Environmental Management (MGEM)** at UBC, focusing on individual tree segmentation using airborne LiDAR data with Natural Resources Canada.
-
-Outside of work, I enjoy reading, biking, and staying active — ideally somewhere near trees.
+Outside of work, I enjoy reading, biking, and staying active, ideally somewhere close to trees.
 
 </div>
 

@@ -1,0 +1,143 @@
+---
+title: ""
+lightbox: true
+page-layout: full
+---
+
+## Map Gallery {.map-gallery-title}
+
+Click any map to view full size.
+
+::: {.map-gallery}
+
+<div class="map-row">
+
+<div class="map-image">
+
+![](images/fuel_prediction.png){.lightbox}
+
+</div>
+
+<div class="map-text">
+
+**Fuel Prediction**
+
+This map presents the predicted **fuel type classification and crown closure**
+across the study area in southern British Columbia.
+
+
+</div>
+
+</div>
+
+---
+
+<div class="map-row-reverse">
+
+<div class="map-image">
+
+![](images/percentage_thresholds.png){.lightbox}
+
+</div>
+
+<div class="map-text">
+
+**Terrain Analysis**
+
+This terrain analysis map highlights elevation variability and slope thresholds
+within the study region.
+
+Terrain metrics were derived from a digital elevation model and used to support
+environmental modelling and spatial analysis.
+
+</div>
+
+</div>
+
+---
+
+<div class="map-row">
+
+<div class="map-image">
+
+![](images/grizzly_least_cost_path.png){.lightbox}
+
+</div>
+
+<div class="map-text">
+
+**Least Cost Path Analysis – Grizzly Bears**
+
+This map identifies the most efficient movement corridor between two grizzly bear habitat locations using a least-cost path model.  
+Environmental resistance factors such as terrain slope, land cover, and human infrastructure were incorporated to estimate wildlife movement pathways.
+
+</div>
+
+</div>
+
+---
+
+<div class="map-row-reverse">
+
+<div class="map-image">
+
+![](images/open_street_map.png){.lightbox}
+
+</div>
+
+<div class="map-text">
+
+**OpenStreetMap Cartographic Design**
+
+This map demonstrates cartographic design using OpenStreetMap data layers.  
+
+The project focuses on symbolization, connectivity using voronoi polygon analysis
+to understand where the hotspots on UBC campus. 
+
+</div>
+
+</div>
+
+---
+
+<div class="map-row">
+
+<div class="map-image">
+
+![](images/riparian_buffer_analysis.png){.lightbox}
+
+</div>
+
+<div class="map-text">
+
+**Riparian Buffer Analysis**
+
+This spatial analysis evaluates riparian buffer zones surrounding stream networks.  
+Buffers were generated to assess potential impacts on water quality and aquatic habitat conservation.
+
+</div>
+
+</div>
+
+---
+
+<div class="map-row-reverse">
+
+<div class="map-image">
+
+![](images/salmon_stream_habitat.png){.lightbox}
+
+</div>
+
+<div class="map-text">
+
+**Salmon Stream Habitat Analysis**
+
+This map identifies potential salmon habitat along stream corridors by integrating hydrology, slope, and surrounding land cover variables.  
+The analysis supports habitat conservation planning and fisheries management.
+
+</div>
+
+</div>
+
+:::

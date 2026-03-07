@@ -14,6 +14,8 @@ website:
         text: Resume
       - href: content.qmd
         text: Projects
+      - href: map_gallery.qmd
+        text: Map Gallery
 
 format:
   html:
