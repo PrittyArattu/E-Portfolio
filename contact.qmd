@@ -13,24 +13,24 @@ format: html
 
 <div class="contact-text">
 
-# Contact
+### Contact
 
 I'd love to connect! Whether it's about geomatics, remote sensing, environmental work, or potential collaborations, feel free to reach out.
 
-### Email  
+##### Email  
 <a href="mailto:pritty.arattu@gmail.com">pritty.arattu@gmail.com</a>
 
-### LinkedIn  
+##### LinkedIn  
 <a href="https://www.linkedin.com/in/pritty-arattu-51b334149/" target="_blank">
 linkedin.com/in/pritty-arattu-51b334149
 </a>
 
-### GitHub  
+##### GitHub  
 <a href="https://github.com/PrittyArattu" target="_blank">
 github.com/PrittyArattu
 </a>
 
-### Location  
+##### Location  
 Vancouver, Canada
 
 </div>
