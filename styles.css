@@ -444,3 +444,13 @@ box-shadow:0 6px 18px rgba(0,0,0,0.15);
   max-width: 900px;
   margin: auto;
 }
+
+.btn-primary {
+  background-color: #1f5a3a;
+  border-color: #1f5a3a;
+}
+
+.btn-primary:hover {
+  background-color: #17452c;
+  border-color: #17452c;
+}

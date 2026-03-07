@@ -4,6 +4,8 @@ page-layout: full
 
 ## Experience
 
+[Download PDF Resume](Arattu_Pritty_Resume.pdf){.btn .btn-primary target="_blank"}
+
 #### City of Hamilton  
 *GIS Analyst*  
 **February 2024 – August 2025**  
@@ -70,15 +72,15 @@ Vancouver, BC
 **July 2025 – May 2026**  
 Vancouver, BC
 
-##### Fleming College  
-*Geographic Information Systems (Certificate)*  
-**September 2017 – May 2018**  
-Lindsay, ON
-
 ##### Conestoga College  
 *Project Management*  
 **September 2018 – May 2019**  
 Waterloo, ON
+
+##### Fleming College  
+*Geographic Information Systems (Certificate)*  
+**September 2017 – May 2018**  
+Lindsay, ON
 
 ##### Maharaja Sayajirao University  
 *Bachelor of Science in Geology*  
