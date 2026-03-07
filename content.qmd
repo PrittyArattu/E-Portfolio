@@ -32,6 +32,18 @@ Spatial modeling was used to identify potential habitat areas for species at ris
 
 </a>
 
+<a href="Projects/ArattuP_ProjectProposalKelp_Dec062025.pdf" class="project-card" target="_blank">
+
+<img src="images/kelp.png">
+
+<h3>Kelp Habitat Mapping Project Proposal</h3>
+
+<p>
+Project proposal exploring kelp habitat mapping using remote sensing and GIS analysis. The report outlines research objectives, methodology, and expected ecological applications.
+</p>
+
+</a>
+
 :::
 
 ::: {.column width="50%"}
@@ -58,17 +70,5 @@ LiDAR point cloud processing and tree segmentation techniques were applied to id
 MODIS NDVI time series data were analyzed using the BFAST algorithm to detect vegetation disturbances and recovery patterns.
 </p>
 
-
-<a href="Projects/ArattuP_ProjectProposalKelp_Dec062025.pdf" class="project-card" target="_blank">
-
-<img src="images/kelp.png">
-
-<h3>Kelp Habitat Mapping Project Proposal</h3>
-
-<p>
-Project proposal exploring kelp habitat mapping using remote sensing and GIS analysis. The report outlines research objectives, methodology, and expected ecological applications.
-</p>
-
-</a>
 
 :::

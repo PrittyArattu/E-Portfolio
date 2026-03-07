@@ -87,19 +87,15 @@ plot(bfm1)
 
 ::: {.column width="50%" style="padding-left:40px;"}
 
-#### Area A
+#### Break detected at 2011
 
-A structural change in the NDVI trend was detected in 2011.
-The continued decline in NDVI values after this point suggests a potential shift 
-in land use, likely indicating a conversion from forested land to agricultural activity.
+Time series showing a detected break in the spectral index at 2011 (14). Historical stable observations (black/green) were used to model the expected trend (blue). The monitoring period begins at the black dashed line, and the disturbance is marked by the red dashed line, after which observed values (red) deviate from the stable trend.
 
 ---
 
-#### Area B
+#### Break detected at 2008
 
-A disruption in the NDVI time series was identified in 2008.
-Because seasonal vegetation patterns gradually reappeared following 
-the break. 
+Time series showing a detected break in the spectral index at 2008 (10). Stable historical observations (black/green) were used to model the expected trend (blue). The monitoring period begins at the black dashed line, and the disturbance is indicated by the red dashed line, where observed values (red) diverge from the predicted stable trend.
 
 :::
 
