@@ -436,3 +436,11 @@ box-shadow:0 6px 18px rgba(0,0,0,0.15);
 .contact-text h1 {
   color: #1f5a3a;
 }
+
+.contact-container {
+  display: flex;
+  gap: 50px;
+  align-items: center;
+  max-width: 900px;
+  margin: auto;
+}
