@@ -6,6 +6,21 @@ page-layout: full
 
 [Download PDF Resume](Arattu_Pritty_Resume.pdf){.btn .btn-primary target="_blank"}
 
+#### City of Fernie  
+*GIS Technologist I*  
+**May 2026 – Present**  
+Fernie, Canada
+
+- Maintain and manage GIS applications and spatial databases supporting Planning, Engineering, Public Works, Asset Management, and other municipal departments.
+- Complete spatial analysis and GIS app
+- Assisted Enterprise specialists with publishing services to ArcGIS Online and maintaining those services.
+
+###### Forestry Projects
+- Developed and managed in-house projects for the forestry department, supporting field technicians with essential tools and resources.
+- Led a project on Spongy Moth Egg Masses, creating Field Smart forms and dashboards to improve data collection and analysis.
+- Conducted woodland assessments focused on tree species identification and health evaluation.
+
+
 #### City of Hamilton  
 *GIS Analyst*  
 **February 2024 – August 2025**  
