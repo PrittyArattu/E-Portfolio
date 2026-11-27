@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: C:\Users\pritty01.stu\OneDrive - UBC\Documents\GitHub\E-Portfolio
+  output-dir: _site
 
 website:
   title: "Pritty Arattu's E-Portfolio"
